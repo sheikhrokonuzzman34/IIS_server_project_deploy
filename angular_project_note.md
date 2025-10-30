@@ -33,6 +33,7 @@
 ```
 
 ```text
-3 iis server new server create 
+3 iis server new sites create 
+physical path select
 
 ```
